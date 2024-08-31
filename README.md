@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IT-Capacitor
-- 👀 I’m interested in C++ Programming proejcts
+- 👀 I’m interested in C++ proejcts
 - 🌱 I’m currently deeping my knowledge by studyig works of others 
 
 <!---
